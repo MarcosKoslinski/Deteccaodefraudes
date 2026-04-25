@@ -140,3 +140,5 @@ Utilizamos SHAP para explicar as predições do modelo XGBoost, gerando gráfico
 ---
 
 **Nota**: Este projeto serve como base sólida para detecção de fraudes. Em produção, considere auditorias de segurança, compliance e testes extensivos.
+
+**Nota Educacional**: Este projeto foi desenvolvido para fins educacionais com base no curso da DIO.me, demonstrando técnicas de machine learning para detecção de fraudes em cartões de crédito.
