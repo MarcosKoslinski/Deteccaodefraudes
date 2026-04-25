@@ -5,7 +5,8 @@ Módulo para geração de gráficos e visualizações.
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.metrics import confusion_matrix, roc_curve, precision_recall_curve
+import pandas as pd
+from sklearn.metrics import confusion_matrix, roc_curve, precision_recall_curve, roc_auc_score, average_precision_score
 import os
 from config import REPORTS_DIR
 
